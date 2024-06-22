@@ -17,6 +17,9 @@ menu:
     url: about
     intro: "About me."
     # icon: "fa fa-user"
+  - title: Projects
+    url: projects
+    intro: "Things I built."
   - title: RSS
     url: atom.xml
     intro: "Subscribe me."
@@ -27,15 +30,40 @@ menu:
     # icon: "fa fa-archive"
 
 links:
-  - title: hexo-theme-bithack
-    url: https://github.com/Ares-X/hexo-theme-freemind.bithack
-    intro: ""
-    icon: true
+  - title: "about me"
+    url: "https://trog.codes/about"
+    intro: "who is this guy"
+    icon: "fa fa-user"
+  
+  - title: github
+    url: https://github.com/rconjoe
+    intro: "my personal github"
+    icon: "fa fa-github"
 
-  # - title: "My LinkedIn"
-  #   url: http://www.linkedin.com/in/xxx
-  #   intro: "My Linkin account."
-  #   icon: "fa fa-linkedin"
+  - title: twitch 
+    url: https://twitch.tv/rconjoe
+    intro: "i stream random things here"
+    icon: "fa fa-twitch"
+
+  - title: steam
+    url: https://steamcommunity.com/id/rconjoe
+    intro: "my steam"
+    icon: "fa fa-steam"
+
+  - title: youtube
+    url: https://youtube.com/@trogdooor
+    intro: "my youtube"
+    icon: "fa fa-youtube"
+
+  - title: ig
+    url: https://www.instagram.com/trogdooor
+    intro: "me!"
+    icon: "fa fa-instagram"
+
+  - title: spotify
+    url: https://open.spotify.com/user/aq8x36wy57u76p4i2mpnp6k7m?si=1cf1b8d5a0364082
+    intro: "my incredible taste in music"
+    icon: "fa fa-spotify"
 
 widgets:
 - search
