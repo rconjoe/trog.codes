@@ -1,4 +1,4 @@
-slogan: "debugs at the club"
+slogan: "experience is what you get when you were expecting something else"
 
 show_heart: true
 
@@ -40,26 +40,26 @@ links:
     intro: "my personal github"
     icon: "fa fa-github"
 
-  - title: twitch 
-    url: https://twitch.tv/rconjoe
-    intro: "i stream random things here"
-    icon: "fa fa-twitch"
-
+  # - title: twitch 
+  #   url: https://twitch.tv/rconjoe
+  #   intro: "i stream random things here"
+  #   icon: "fa fa-twitch"
+  #
   - title: steam
     url: https://steamcommunity.com/id/rconjoe
     intro: "my steam"
     icon: "fa fa-steam"
 
-  - title: youtube
-    url: https://youtube.com/@trogdooor
-    intro: "my youtube"
-    icon: "fa fa-youtube"
-
-  - title: ig
-    url: https://www.instagram.com/trogdooor
-    intro: "me!"
-    icon: "fa fa-instagram"
-
+  # - title: youtube
+  #   url: https://youtube.com/@trogdooor
+  #   intro: "my youtube"
+  #   icon: "fa fa-youtube"
+  #
+  # - title: ig
+  #   url: https://www.instagram.com/trogdooor
+  #   intro: "me!"
+  #   icon: "fa fa-instagram"
+  #
   - title: spotify
     url: https://open.spotify.com/user/aq8x36wy57u76p4i2mpnp6k7m?si=1cf1b8d5a0364082
     intro: "my incredible taste in music"
