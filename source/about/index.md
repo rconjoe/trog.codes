@@ -6,4 +6,4 @@ layout: page
 
 so i haven't filled it up yet, but it's very high on my to-do list.
 
-if you're <a href="https://github.comn/rconjoe/trog.codes">curious...</a>
+if you're <a href="https://github.com/rconjoe/trog.codes">curious...</a>
