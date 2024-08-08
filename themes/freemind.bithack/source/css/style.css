@@ -389,7 +389,7 @@ h2 {
     -webkit-background-clip: border-box;
     -webkit-background-origin: padding-box;
     -webkit-background-size: cover;
-    padding: 10px 20px 0px;
+    padding: 20px 20px 20px;
     margin: -20px -20px 20px;
     color: #fff;
     border-radius: 6px 6px 0 0;
@@ -535,7 +535,7 @@ hr {
 }
 
 .logo {
-    background: url("../favicon.png") no-repeat left top;
+    background: url("../Bash_Logo_Favicon_Colored.svg.png") no-repeat left top;
     background-size: 5em
 }
 
