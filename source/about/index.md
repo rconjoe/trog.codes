@@ -28,7 +28,7 @@ I don't remember how, but somewhere very early along the way, I found <a href="h
 <center><i>Cute computer cartoons! This is fine.</i></center>
 <br />
 
-A natural progression some years later was to be enamoured with the world of <a href="https://en.m.wikipedia.org/wiki/GameShark">GameShark</a>, a line of adapter cartridges awkwardly jammed between your system and game cartridge which offered a tremendously low barrier to entering into the world of computer memory and its manipulation.
+A natural progression some years later was to be enamoured with the world of <a href="https://en.m.wikipedia.org/wiki/GameShark">GameShark</a>, a line of adapter cartridges awkwardly jammed between your system and game cartridge which offered a tremendously low barrier to entering into the world of computer memory and ways to manipulate it.
 <img src="/about/images/gameshark.jpg" height="400" width="400">
 <center><i>This lovely mess is how I beat so many games.</i></center>
 <br />
