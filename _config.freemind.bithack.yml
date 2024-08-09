@@ -20,6 +20,7 @@ menu:
   - title: Projects
     url: projects
     intro: "Things I built."
+    icon: "fa fa-pencil"
   - title: RSS
     url: atom.xml
     intro: "Subscribe me."
