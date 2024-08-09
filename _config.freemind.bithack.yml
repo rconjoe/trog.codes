@@ -2,7 +2,7 @@ slogan: "experience is what you get when you were expecting something else"
 
 show_heart: false 
 
-show_slogan: true
+show_slogan: false
 
 menu:
   - title: Categories
