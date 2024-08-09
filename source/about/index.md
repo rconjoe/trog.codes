@@ -23,7 +23,7 @@ This kind of lower-level exposure to technology planted seeds of curiosity in my
 <center><i>Only some will remember...</i></center>
 <br />
 
-I don't remember how, but somewhere very early along the way, I found <a href="https://www.2600.com">2600 Magazine</a>, and asked my father if I could get a monthly subscription to it. I can only assume that he happily obliged having no idea what 2600 actually was, perhaps considering his son's interest in technology worth supporting. So there I was, 10 years old, rushing home from school hoping that the latest issue of the hacking mag was waiting for me in the mailbox. As far as I could tell, no correlation was made between my repeated disassembling of the telephone box to the reading of that magazine. ;)
+I don't remember how, but somewhere very early along the way, I found <a href="https://www.2600.com">2600 Magazine</a>, and asked my father if I could get a quarterly subscription to it. I can only assume that he happily obliged having no idea what 2600 actually was, perhaps considering his son's interest in technology worth supporting. So there I was, 10 years old, rushing home from school hoping that the latest issue of the hacking mag was waiting for me in the mailbox. As far as I could tell, no correlation was made between my repeated disassembling of the telephone box to the reading of that magazine. ;)
 <img src="/about/images/2600.jpg" height="400" width="400">
 <center><i>Cute computer cartoons! This is fine.</i></center>
 <br />
