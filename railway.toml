@@ -1,5 +1,5 @@
 [build]
-buildCommand = "hexo generate"
+buildCommand = "hexo clean && hexo generate"
 
 [deploy]
 startCommand = "hexo server -s -i 0.0.0.0 -p $PORT"
