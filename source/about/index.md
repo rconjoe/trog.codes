@@ -42,8 +42,11 @@ A natural progression some years later was to be enamoured with the world of <a 
 By the 2010's, video games in many regions had already been established as a first-class citizen in new media. <a href="https://en.m.wikipedia.org/wiki/StarCraft">Starcraft</a> became known as <a href="https://archive.esportsobserver.com/starcraft-ii-esports-essentials/">Korea's national pastime</a>. The explosion of <a href="https://esportsinsider.com/2023/04/esports-around-the-world-usa">esports in North America</a> happened in front of us, around this time I would get my first glance at this world by organizing local fighting-game tournaments in Michigan.
 
 During this time I began to recognize a pattern of unique, unfulfilled technical requirements appearing at each of the events I would work on. LAN parties and gaming tournaments may not have been anything new, however it was not yet a common thing to be moving 200 PC's or gaming consoles into a student center somewhere to host a massive event. There was exploding demand for these competitions in more and more places, but not the proportional amount of people who had experience putting them on. Everything from logistical hurdles to technical and broadcasting challenges seemed to require some novel solution. This was where I began to find a home, combining many of the things I'd learned (and equipment I was collecting) over time in order to solve these problems. This would become a theme over the next several years as I moved on to building bigger and bigger events, eventually traveling across the country from LA to Philadelphia to build systems at events like <a href="https://www.fragadelphia.com/">Fragadelphia </a> and turn a blank warehouse purchased by <a href="https://www.nerdstreet.com">Nerd Street Gamers</a> into a full-fledged LAN event center (now <a href="https://nerdstreet.com/events/localhost-grand-opening-at-nerd-street-s-the-block-2021-11-13?section=overview">The Block</a>), complete with stages and broadcast capabilities, then directing technical operations for the venue's <a href="https://nerdstreet.com/news/2021/11/incontrol-nation-open-up-the-block-loclhost-win-at-fragadelphia">inaugural event</a> in 2021.
-
-
+<img src="/about/images/fragsaga.png" height="750" width="750">
+<center><i>Left: Building one of 125 PC's on the spot that would eventually become the stage on the right.</i></center>
+<img src="/about/images/admincave.png" height="650" width="650">
+<center><i>The first server desk at The Block, from which the entire venue in the above photos was controlled.</i></center>
+<br />
 
 
 
