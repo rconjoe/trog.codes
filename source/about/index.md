@@ -49,6 +49,20 @@ During this time I began to recognize a pattern of unique, unfulfilled technical
 <br />
 
 
+---
 
+## Trial By Fire: The Story of Provana
 
+-- coming soon --
 
+---
+
+## How I Became a Teacher: Underdog Devs and BeachCoders
+
+-- coming soon --
+
+---
+
+## Hyperscale Adventures: Building Systems at Diamond Foundry
+
+-- coming soon --
