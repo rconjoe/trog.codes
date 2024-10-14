@@ -17,13 +17,13 @@ menu:
     url: tags
     intro: "All the tags."
     icon: "fa fa-tags"
-  - title: Projects
-    url: projects
-    intro: "Things I built."
-    icon: "fa fa-pencil"
+  # - title: Projects
+  #   url: projects
+  #   intro: "Things I built."
+  #   icon: "fa fa-pencil"
   - title: RSS
     url: atom.xml
-    intro: "Subscribe me."
+    intro: "Subscribe."
     icon: "fa fa-rss"
   - title: Archives
     url: archives
