@@ -7,8 +7,4 @@ layout: page
 
 <img src="/about/images/stageadmin.png" height="500" width="500">
 
-
-I am a software and systems engineer with a unique set of experience and a strong track record of solving business problems with code. I am able to distill intricate technical concepts into a shared language that communicates the bottom line, lending to my skills as a reliable leader of software project teams.
-My experience is atypical in that I have worked across a wide spectrum of disciplines in software engineering. Projects I have successfully delivered vary from Web API’s and ecommerce/retail process automation to deployment and administration of worldwide multiplayer game server networks.
-I have spent several years teaching code in many environments - from developer bootcamps and in-house company workshops, to non-profit education for formerly incarcerated individuals. I find that at work, the insight I’ve been able to develop through this long standing love of pedagogy regularly proves advantageous. I, too, am a self-taught programmer, and so I believe strongly in free dissemination of the practice. Developers constantly learning around one another is fertilizer for a successful, cohesive, long-lasting team.
-
+A software engineer residing in Southern California, I've spent the last decade of my life writing code and building systems to run and scale it. My portfolio spans across web API's, automation, scripting, database engineering, and full-stack web development. I've also spent many years as a programming instructor in environments ranging from in-classroom bootcamp settings to fully online, one-to-one mentoring. My current interest is becoming proficient in lower-level languages and embedded systems. This is a blog where I write out my thoughts as I learn, or document projects as I build.
