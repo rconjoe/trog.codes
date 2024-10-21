@@ -19,8 +19,6 @@ In addition to being able to run your own local server to host the game, there i
 
 The first thing we must do before anything else is set up a plain old Counter Strike server on a local machine. 
 
-Counter Strike has historically iterated versions alongside its engine - first GoldSrc in 1999, a heavily modified Quake engine used to make the original Counter Strike (as well as Half-Life)
-
 I use set of bash scripts known as <a href="https://linuxgsm.com">LinuxGSM</a> to do this. LGSM is an open-source project by a very talented developer, <a href="https://danielgibbs.co.uk/">Dan Gibbs</a>. It greatly simplifies the process of configuring a basic server for over 120 self-hostable games on Steam.
 
 To install LinuxGSM, all you need to do is download and run the <a href=https://linuxgsm.sh>install script</a> in a POSIX-compliant terminal. It's best to just use bash, since this is what LGSM is written in. Granted you have sudo access, the script will also download and install any missing dependencies from the appropriate package registry for your distro.
