@@ -4,7 +4,7 @@ date: 2024-10-14 12:43:09
 tags: [counterstrike, csharp, counterstrikesharp, source2, gamedev, linux]
 categories: [CounterStrike, C#]
 toc: true
-feature: details.png
+feature: details2.png
 ---
 
 This is an outline of how I built a CI system to develop Counter Strike 2 plugins, complete with an automated build system and local test server.
