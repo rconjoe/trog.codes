@@ -1,7 +1,7 @@
 ---
 title: Counterstrike Devops
 date: 2024-10-14 12:43:09
-tags: [counterstrike, csharp, counterstrikesharp, source2, gamedev, linux, steam]
+tags: [counterstrike, csharp, source2, gamedev, linux, steam]
 categories: [CounterStrike, C#, Automation]
 toc: true
 feature: details2.png
